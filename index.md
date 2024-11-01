@@ -9,7 +9,7 @@ redirect_from:
 ### Prospective Students
 
 - ***Students interested in the course should first try enrolling in the course in CalCentral. The class number for CS194-280 is 33840. The class number for CS294-280 is 33841. Please join the waitlist if the class is full.***
-- ***We plan to expand the class size to allow more students to join. Please fill in the signup form (not released yet) if you are on the waitlist or can't get added to the waitlist. You will receive an email notification around the beginning of the spring semester if you are allowed in.***
+- ***We plan to expand the class size to allow more students to join. Please fill in the <a href="https://forms.gle/sfWW8M2w1LDTnQWm9">petition form</a> if you are on the waitlist or can't get added to the waitlist. You will receive an email notification around the beginning of the spring semester if you are allowed in.***
 
 ## Course Staff
 
@@ -47,7 +47,7 @@ Under development
 
 ***Prerequisite:*** **Students are strongly encouraged to have had experience and basic understanding of Machine Learning and Deep Learning before taking this class, e.g., have taken courses such as CS182, CS188, and CS189.**
 
-***Please fill out the signup form (not released yet) if you are on the waitlist or can't get added to the waitlist.***
+***Please fill out the <a href="https://forms.gle/sfWW8M2w1LDTnQWm9">petition form</a> if you are on the waitlist or can't get added to the waitlist.***
 
 This is a variable-unit course.
 All enrolled students are expected to participate in lectures in person and complete weekly reading summaries related to the course content.
