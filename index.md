@@ -31,8 +31,8 @@ redirect_from:
 <td>Kaiyu Yang</td>
 <tr>
 <td>Professor, UC Berkeley</td>
-<td>Research Scientist, Google DeepMind</td>
-<td>Research Scientist, Meta FAIR</td>
+<td>Research Scientist, <br> Google DeepMind</td>
+<td>Research Scientist, <br> Meta FAIR</td>
 </tr>
 </tr>
 </tbody>
