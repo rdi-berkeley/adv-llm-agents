@@ -10,6 +10,8 @@ redirect_from:
 
 - ***Students interested in the course should first try enrolling in the course in CalCentral. The class number for CS194-280 is 33840. The class number for CS294-280 is 33841. Please join the waitlist if the class is full.***
 - ***We plan to expand the class size to allow more students to join. Please fill in the <a href="https://forms.gle/sfWW8M2w1LDTnQWm9">petition form</a> if you are on the waitlist or can't get added to the waitlist. You will receive an email notification around the beginning of the spring semester if you are allowed in.***
+- ***<span style="color:red">For any questions, please email course staff at <a href="mailto:cs294280.sp25@gmail.com
+">cs294280.sp25@gmail.com</a>.</span>***
 
 ## Course Staff
 
