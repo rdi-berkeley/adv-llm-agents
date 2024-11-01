@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CS294/194-280 \n Advanced Large Language Model Agents"
+title: "CS294/194-280 <br> Advanced Large Language Model Agents"
 permalink: /sp25
 redirect_from:
  - /
