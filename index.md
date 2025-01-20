@@ -45,6 +45,7 @@ redirect_from:
 </table>
 
 TA: Alex Pan
+
 Readers: Tara Pande, Ashwin Dara, Jason Yan
 
 ## Class Time and Location
