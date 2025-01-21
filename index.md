@@ -44,9 +44,7 @@ redirect_from:
 </tbody>
 </table>
 
-TA: Alex Pan
-
-Readers: Tara Pande, Ashwin Dara, Jason Yan
+Teaching Staff: Alex Pan, Tara Pande, Ashwin Dara, Jason Yan
 
 ## Class Time and Location
 
