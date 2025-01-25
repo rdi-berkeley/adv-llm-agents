@@ -63,8 +63,22 @@ Large language model (LLM) agents have been an important frontier in AI, however
 
 ## Syllabus
 
-Under development
-
+| Date   | Guest Lecture <br> (4:00PM-6:00PM PST) | Supplemental Readings | 
+|--------|-------|-------|
+| Jan 27th | **Inference-Time Techniques for LLM Reasoning** <br> Xinyun Chen, Google DeepMind | - [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409) <br> - [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798) <br> - [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128) |   
+| Feb 3rd | **Learning to reason with LLMs** <br> Jason Weston, Meta | - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) <br> - [Iterative Reasoning Preference Optimization](https://arxiv.org/abs/2404.19733) <br> - [Chain-of-Verification Reduces Hallucination in Large Language Models](https://arxiv.org/abs/2309.11495) |   
+| Feb 10th | **TBA**  | |   
+| Feb 17th | **No Class - Presidents' Day**  | |   
+| Feb 24th | **Reasoning and Planning in Large Language Models** <br> Hanna Hajishirzi, University of Washington | |   
+| Mar 3rd | **TBA** | |   
+| Mar 10th | **Coding agents/web agents** <br> Ruslan Salakhutdinov, CMU/Meta | |   
+| Mar 17th | **Agents at Salesforce** <br> Caiming Xiong, Salesforce | |   
+| Mar 24th | **No Class - Spring Recess**  | |   
+| Mar 31st | **TBA** | |   
+| Apr 7th | **Language models for autoformalization and theorem proving** <br> Kaiyu Yang, Meta FAIR | |   
+| Apr 14th | **TBA** | |   
+| Apr 21st | **Program verification & generating verified code** <br> Swarat Chaudhuri, UT Austin | |   
+| Apr 28th | **Agent safety & security** <br> Dawn Song, UC Berkeley | |   
 
 ## Enrollment and Grading
 
@@ -98,12 +112,13 @@ The grade breakdowns for students enrolled in different units are the following:
 
 |                         | Released | Due    |
 |-------------------------|----------|--------|
-| Project group formation | 1/27      | 2/3    |
+| Project group formation | 1/27      | 2/17    |
 | Project proposal        |  2/3     | 2/17    |
-| Labs                    |  3/31     |  4/28   |
 | Project milestone #1    |  2/17     |  3/24   |
 | Project milestone #2    |  3/24     |  4/28   |
-| Project final presentation    |  4/28     | 5/16    |
+| Labs                    |  3/31     |  4/28   |
+| Project final presentation    |  4/28     | 5/9    |
+| Project final poster    |  4/28     | 5/9    |
 | Project final report    |  4/28     | 5/16    |
 
 ## Office Hours
