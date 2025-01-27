@@ -6,11 +6,6 @@ redirect_from:
  - /
 ---
 
-<div style="border: 2px solid #4CAF50; padding: 10px; background-color: #E9F8E8;">
-    <p style="font-size: 30px; font-weight: bold; color: #4CAF50;">Warning:</p>
-    <p style="font-size: 25px; color: #333;">This site is under construction. All dates and policies are tentative until this message goes away. </p>
-</div>
-
 ### Prospective Students
 
 - ***Students interested in the course should first try enrolling in the course in CalCentral. The class number for CS194-280 is 33840. The class number for CS294-280 is 33841. Please join the waitlist if the class is full.***
