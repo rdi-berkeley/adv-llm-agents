@@ -91,7 +91,7 @@ The grade breakdowns for students enrolled in different units are the following:
 |                              | 1 unit | 2 units | 3/4 units |
 |------------------------------|--------|---------|-----------|
 | Participation                | 40%    | 16%     | 8%        |
-| Reading Summaries & Q/A      | 10%    | 4%      | 2%        |
+| Reading Summaries            | 10%    | 4%      | 2%        |
 | Quizzes                      | 10%    | 4%      | 2%        |
 | Article                      | 40%    |         |           |
 | Lab                          |        | 16%     | 8%        |
