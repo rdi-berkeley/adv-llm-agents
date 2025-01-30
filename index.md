@@ -58,6 +58,7 @@ Large language model (LLM) agents have been an important frontier in AI, however
 
 ## Syllabus
 *‡Livestream Only*
+
 | Date   | Guest Lecture <br> (4:00PM-6:00PM PST) | Supplemental Readings | 
 |--------|-------|-------|
 | Jan 27th | **Inference-Time Techniques for LLM Reasoning** <br> Xinyun Chen, Google DeepMind <br> <a href="https://rdi.berkeley.edu/adv-llm-agents/slides/llm-agents-berkeley-intro-sp25.pdf">Intro</a> <a href="https://rdi.berkeley.edu/adv-llm-agents/slides/inference_time_techniques_lecture_sp25.pdf">Slides</a> | - [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409) <br> - [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798) <br> - [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128) <br> *All readings are optional this week.* |   
