@@ -66,13 +66,13 @@ Large language model (LLM) agents have been an important frontier in AI, however
 | Feb 10th | **TBA**  | |   
 | Feb 17th | **No Class - Presidents' Day**  | |   
 | Feb 24th‡ | **Reasoning and Planning in Large Language Models** <br> Hanna Hajishirzi, University of Washington | |   
-| Mar 3rd | **TBA** | |   
+| Mar 3rd | **Code generation: foundation model** <br> Charles Sutton, Google DeepMind | |   
 | Mar 10th‡ | **Coding agents/web agents** <br> Ruslan Salakhutdinov, CMU/Meta | |   
 | Mar 17th | **Multimodal Agents** <br> Caiming Xiong, Salesforce AI Research | |   
 | Mar 24th | **No Class - Spring Recess**  | |   
-| Mar 31st | **TBA** | |   
+| Mar 31st‡ | **Math LLMs: data curation, pretraining, finetuning, and tool-integrated reasoning** <br> Thomas Hubert, Google DeepMind | |   
 | Apr 7th | **Language models for autoformalization and theorem proving** <br> Kaiyu Yang, Meta FAIR | |   
-| Apr 14th | **TBA** | |   
+| Apr 14th‡ | **Advanced topics in theorem proving** <br> Sean Welleck, CMU | |   
 | Apr 21st‡ | **Program verification & generating verified code** <br> Swarat Chaudhuri, UT Austin | |   
 | Apr 28th‡ | **Agent safety & security** <br> Dawn Song, UC Berkeley | |   
 
