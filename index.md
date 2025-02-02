@@ -63,7 +63,7 @@ Large language model (LLM) agents have been an important frontier in AI, however
 |--------|-------|-------|
 | Jan 27th | **Inference-Time Techniques for LLM Reasoning** <br> Xinyun Chen, Google DeepMind <br> <a href="https://rdi.berkeley.edu/adv-llm-agents/slides/llm-agents-berkeley-intro-sp25.pdf">Intro</a> <a href="https://rdi.berkeley.edu/adv-llm-agents/slides/inference_time_techniques_lecture_sp25.pdf">Slides</a> | - [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409) <br> - [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798) <br> - [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128) <br> *All readings are optional this week.* |   
 | Feb 3rd‡ | **Learning to reason with LLMs** <br> Jason Weston, Meta | - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) <br> - [Iterative Reasoning Preference Optimization](https://arxiv.org/abs/2404.19733) <br> - [Chain-of-Verification Reduces Hallucination in Large Language Models](https://arxiv.org/abs/2309.11495) |   
-| Feb 10th | **TBA**  | |   
+| Feb 10th‡ | **Reasoning & Planning** <br> Yu Su, Ohio State University  | |   
 | Feb 17th | *No Class - Presidents' Day*  | |   
 | Feb 24th‡ | **Reasoning and Planning in Large Language Models** <br> Hanna Hajishirzi, University of Washington | |   
 | Mar 3rd | **Code generation: foundation model** <br> Charles Sutton, Google DeepMind | |   
