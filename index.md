@@ -98,20 +98,18 @@ The grade breakdowns for students enrolled in different units are the following:
 | Lab                          |        | 16%     | 8%        |
 | Project                      |        |         |           |
 | &nbsp;&nbsp;*Proposal*       |        | 10%     | 10%       |
-| &nbsp;&nbsp;*Milestone 1*    |        | 10%     | 10%       |
-| &nbsp;&nbsp;*Milestone 2*    |        | 10%     | 10%       |
-| &nbsp;&nbsp;*Presentation*   |        | 15%     | 15%       |
-| &nbsp;&nbsp;*Report*         |        | 15%     | 15%       |
+| &nbsp;&nbsp;*Milestone*      |        | 10%     | 10%       |
+| &nbsp;&nbsp;*Presentation*   |        | 20%     | 20%       |
+| &nbsp;&nbsp;*Report*         |        | 20%     | 20%       |
 | &nbsp;&nbsp;*Implementation* |        |         | 20%       |
 
 ## Lab and Project Timeline
 
 |                         | Released | Due    |
 |-------------------------|----------|--------|
-| Project group formation | 1/27      | 2/17    |
-| Project proposal        |  2/3     | 2/17    |
-| Project milestone #1    |  2/17     |  3/24   |
-| Project milestone #2    |  3/24     |  4/28   |
+| Project group formation | 1/27      | 2/24    |
+| Project proposal        |  2/3     | 2/24    |
+| Project milestone       |  2/24     |  3/31   |
 | Lab                     |  3/31     |  4/28   |
 | Project final presentation    |  4/28     | 5/9    |
 | Project final poster    |  4/28     | 5/9    |
