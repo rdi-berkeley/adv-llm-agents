@@ -99,9 +99,9 @@ The grade breakdowns for students enrolled in different units are the following:
 | Project                      |        |         |           |
 | &nbsp;&nbsp;*Proposal*       |        | 10%     | 10%       |
 | &nbsp;&nbsp;*Milestone*      |        | 10%     | 10%       |
-| &nbsp;&nbsp;*Presentation*   |        | 20%     | 20%       |
+| &nbsp;&nbsp;*Presentation*   |        | 20%     | 15%       |
 | &nbsp;&nbsp;*Report*         |        | 20%     | 20%       |
-| &nbsp;&nbsp;*Implementation* |        |         | 20%       |
+| &nbsp;&nbsp;*Implementation* |        |         | 25%       |
 
 ## Lab and Project Timeline
 
