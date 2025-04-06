@@ -111,8 +111,8 @@ The grade breakdowns for students enrolled in different units are the following:
 | Project proposal        |  2/3     | 2/24    |
 | Project milestone       |  2/24     |  3/31   |
 | Lab                     |  3/31     |  4/28   |
-| Project final presentation    |  4/28     | 5/9    |
-| Project final poster    |  4/28     | 5/9    |
+| Project final presentation    |  4/28     | 5/5    |
+| Project final poster    |  4/28     | 5/5    |
 | Project final report    |  4/28     | 5/16    |
 
 ## Office Hours
